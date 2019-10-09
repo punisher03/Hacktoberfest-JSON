@@ -1,1 +1,27 @@
-
+[
+    {
+      "name": "Shreyas Patil",
+      "languages": [
+        "C",
+        "C++",
+        "Java",
+        "Kotlin",
+        "PHP",
+        "Dart"
+      ],
+      "city": "Pune",
+      "organization": "Student, D. Y. Patil College of Engineering, Pune"
+    }, 
+    
+    // Just Copy this below Format, Paste here and fill your details.
+    {
+      "name": "YOUR_NAME",
+      "languages": [
+        "LANG_1",
+        "LANG_2",
+        "LANG_3"
+      ],
+      "city": "CITY_NAME",
+      "organization": "ORGANIZATION_NAME/COLLEGE_NAME"
+    }
+]
